@@ -1,0 +1,10 @@
+C:\Users\elizavetalisovenko\source\repos\очередь\bin\Debug\очередь.exe.config
+C:\Users\elizavetalisovenko\source\repos\очередь\bin\Debug\очередь.exe
+C:\Users\elizavetalisovenko\source\repos\очередь\bin\Debug\очередь.pdb
+C:\Users\elizavetalisovenko\source\repos\очередь\obj\Debug\очередь.csproj.AssemblyReference.cache
+C:\Users\elizavetalisovenko\source\repos\очередь\obj\Debug\очередь.Form1.resources
+C:\Users\elizavetalisovenko\source\repos\очередь\obj\Debug\очередь.Properties.Resources.resources
+C:\Users\elizavetalisovenko\source\repos\очередь\obj\Debug\очередь.csproj.GenerateResource.cache
+C:\Users\elizavetalisovenko\source\repos\очередь\obj\Debug\очередь.csproj.CoreCompileInputs.cache
+C:\Users\elizavetalisovenko\source\repos\очередь\obj\Debug\очередь.exe
+C:\Users\elizavetalisovenko\source\repos\очередь\obj\Debug\очередь.pdb
